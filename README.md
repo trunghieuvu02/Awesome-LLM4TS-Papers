@@ -20,6 +20,7 @@ leading conferences: NeurIPS, ICLR, ICML, WWW, AAAI, and top journals in the fie
 | MC-ANN: A Mixture Clustering-Based Attention Neural Network for Time Series Forecasting | [TPAMI 2025](https://ieeexplore.ieee.org/abstract/document/10979493) | None |
 | VisionTS: Visual Masked Autoencoders Are Free-Lunch Zero-Shot Time Series Forecasters   | [ICML 2025](https://arxiv.org/abs/2408.17253) | [Code](https://github.com/Keytoyze/VisionTS) |
 | T2S: High-resolution Time Series Generation with Text-to-Series Diffusion Models        | [IJCAI 2025]()                                | [Code](https://github.com/WinfredGe/T2S) |
+| Time-MMD: Multi-Domain Multimodal Dataset for Time Series Analysis                      | [NeurIPS 2024] (https://arxiv.org/abs/2406.08627) | [Code](https://github.com/AdityaLab/MM-TSFlib.git) |
 
  
 
