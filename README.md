@@ -10,6 +10,10 @@ leading conferences: NeurIPS, ICLR, ICML, WWW, AAAI, and top journals in the fie
 
 | Title                                                                                   |                        Publisher                        |                           Code                        |
 |:----------------------------------------------------------------------------------------|:-------------------------------------------------------:|:-----------------------------------------------------:|
+| WPMixer: Efficient Multi-Resolution Mixing for Long-Term Time Series Forecasting        | [AAAI 2025](https://doi.org/10.1609/aaai.v39i18.34156)  | [Code](https://github.com/Secure-and-Intelligent-Systems-Lab/WPMixer.git) |
+| TimeCMA: Towards LLM-Empowered Multivariate Time Series Forecasting via Cross-Modality Alignment   | [AAAI 2025](https://doi.org/10.1609/aaai.v39i18.34067) | [Code](https://github.com/ChenxiLiu-HNU/TimeCMA.git) |
+| CALF: Aligning LLMs for Time Series Forecasting via Cross-modal Fine-Tuning             | [AAAI 2025](https://doi.org/10.1609/aaai.v39i18.34082)  | [Code](https://github.com/Hank0626/CALF)              |
+| Time Series Forecasting with LLMs: Understanding and Enhancing Model Capabilities       | [ACM SIGKDD 2025](https://dl.acm.org/doi/pdf/10.1145/3715073.3715083)           | None                          |
 | MC-ANN: A Mixture Clustering-Based Attention Neural Network for Time Series Forecasting | [TPAMI 2025](https://ieeexplore.ieee.org/abstract/document/10979493) | None                                     |
 | VisionTS: Visual Masked Autoencoders Are Free-Lunch Zero-Shot Time Series Forecasters   | [ICML 2025](https://arxiv.org/abs/2408.17253)           | [Code](https://github.com/Keytoyze/VisionTS)          |
 | T2S: High-resolution Time Series Generation with Text-to-Series Diffusion Models        | [IJCAI 2025]()                                          | [Code](https://github.com/WinfredGe/T2S)              |
