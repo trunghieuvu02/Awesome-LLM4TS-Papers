@@ -26,6 +26,6 @@ leading conferences: NeurIPS, ICLR, ICML, WWW, AAAI, and top journals in the fie
 | UniTime: A Language-Empowered Unified Model for Cross-Domain Time Series Forecasting    |      [WWW 2024](https://arxiv.org/abs/2310.09751)       |        [Code](https://github.com/liuxu77/UniTime)     |
 | Time-MMD: Multi-Domain Multimodal Dataset for Time Series Analysis                      | [NeurIPS 2024](https://arxiv.org/abs/2406.08627)        | [Code](https://github.com/AdityaLab/MM-TSFlib.git)    |
 | From News to Forecast: Integrating Event Analysis in LLM-Based Time Series Forecasting with Reflection | [NeurIPS 2024](https://arxiv.org/abs/2409.17515) | [Code](https://github.com/ameliawong1996/From_News_to_Forecast.git)    |
-
+| Does Multimodality Lead to Better Time Series Forecasting?                              | arXiv	2025.06	                                          | None                                                  |
  
 
